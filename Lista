@@ -6,3 +6,17 @@ https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/bsg12zvu4e01i7.m3u8?s=mi2sGVR8mx5x
 #EXTINF:-1 ,Forotv
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-chno"3" group-title="MEXICO",TLNovelas
+https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=BxHsJEfzIq2KSyKTTwKxZQ&e=1616317377
+
+#EXTINF:-1 tvg-chno"4" group-title="MEXICO",Canal 5
+https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/lrpme.m3u8?s=HFEXeR8bemSAp6fx_juj7A&e=1616313167
+
+#EXTINF:-1 tvg-chno"5" group-title="MEXICO",Azteca 7
+https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/jykbz8ou4rw9.m3u8?s=l-ojiv8x26hxj5guIkBVQQ&e=1616313601
+
+#EXTINF:-1 tvg-chno"6" group-title="MEXICO",ADN 40
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 tvg-chno"7" group-title="MEXICO",TDT Tlaxcala
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
