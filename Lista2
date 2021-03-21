@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 , Las Estrellas
-https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/bsg12zvu4e01i7.m3u8?s=mi2sGVR8mx5xUSIgzHG_rQ&e=1616309951
+http://38.18.238.35:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 , Forotv
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
@@ -48,7 +48,7 @@ https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8?uid=xKzh1A
 #EXTINF:-1 , Tv Cuatro 4.1
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/chunklist_w2041037601.m3u8
 
-#EXTINF:-1 Tv Cuatro 4.2
+#EXTINF:-1 , Tv Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/chunklist_w795201900.m3u8
 
 #EXTINF:-1 , Tv Cuatro 4.3
@@ -78,7 +78,7 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w592319499.
 #EXTINF:-1 , A+
 https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/ac252846-7377-4ff9-948d-318fc3af939d:TUL/variant/5f195ef3a7a59d9412b8188f808d9789/bandwidth/354200.m3u8
 
-#EXTINF:-1 , Paramount +
+#EXTINF:-1 , Pluto Paramount +
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=28c3523c-5eed-4e35-ae0e-929ea82c3f8f&deviceVersion=89.0.4389.90&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Chrome&sid=be778616-89fb-11eb-959c-0242ac110002&advertisingId=&deviceLat=19.3302&deviceLon=-98.2213&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 , Cine Suspenso
@@ -305,3 +305,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c9331210007
 
 #EXTINF:-1 , El Reino Infantil
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=28c3523c-5eed-4e35-ae0e-929ea82c3f8f&clientModelNumber=na&deviceDNT=false&deviceId=28c3523c-5eed-4e35-ae0e-929ea82c3f8f&deviceLat=19.3302&deviceLon=-98.2213&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=a2b96419-8a07-11eb-a627-0242ac110002&sid=a2b96419-8a07-11eb-a627-0242ac110002&userId=
+
+#EXTINF:-1 group-title="TV PREMIUM" logo="https://www.televall.online/gallery/axn_thumb.png" group-title="TV PREMIUM",AXN
+http://38.18.238.35:2095/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV PREMIUM" logo="https://www.televall.online/gallery/comedy-central_thumb.png" group-title="TV PREMIUM",COMEDY CENTRAL
+http://38.18.238.35:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
+
+
