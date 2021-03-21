@@ -12,6 +12,9 @@ https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=BxHsJEfzIq2K
 #EXTINF:-1 , Canal 5
 https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=20&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 , Total
+https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 , Azteca 7
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/7135afd8-8a26-481a-9fff-b68f04924722:TUL/master.m3u8
 
