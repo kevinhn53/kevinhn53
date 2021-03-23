@@ -795,3 +795,23 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w592319499.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="México", A+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/01/nu9ve.png" group-title="México", nu9ve
+http://23.237.29.98:2095/andrew/galatv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Once-en-vivo-Online-100x70.png" group-title="México", Once Tv 
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
