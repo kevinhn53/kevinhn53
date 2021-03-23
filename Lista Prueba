@@ -810,6 +810,9 @@ http://38.18.237.42:2095/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Gala-tv-324x235.png" group-title="México", Galavicion
 http://38.18.238.35:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2019/11/aztecacinema.jpg" group-title="México", Az Cinema 
+http://38.18.238.35:2095/andromeda/AZCINEMA/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
 
 
 
@@ -820,7 +823,7 @@ http://38.18.238.35:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Star Action
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/2021/03/staractionp.jpg" group-title="Premium", Star Action
 http://38.18.238.35:2095/andromeda/FOXACTION/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/space_mx.jpg" group-title="Premium", Space
@@ -832,19 +835,19 @@ http://38.18.237.42:2095/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9Wx
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/wmvs_pbs10_milwaukee.jpg" group-title="Premium", Mvstv mx 
 http://38.18.238.35:2095/152mx52/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atresseries.com/public/img/atreseries-television.svg" group-title="Premium", A3 series 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antena3.jpg" group-title="Premium", A3 series 
 http://23.237.29.98:2095/230Atres/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", A&E 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ae_mundo.jpg" group-title="Premium", A&E 
 http://38.18.238.35:2095/andromeda/AE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", AXN 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="Premium", AXN 
 http://38.18.238.35:2095/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Comedicentral
+#EXTINF:-1 tvg-logo="" group-title="Premium", Comedi Central
 http://38.18.238.35:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Entertaiment (E) 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_eu.jpg" group-title="Premium", E!
 http://23.237.29.98:2095/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", Fox channel 
@@ -853,13 +856,13 @@ http://38.18.238.35:2095/andromeda/FOX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%
 #EXTINF:-1 tvg-logo="" group-title="Premium", Fox Life 
 http://23.237.29.98:2095/209FoxLife/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Fx 
-http://38.18.238.35:2095/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fx_lam_hd.jpg" group-title="Premium", Fx 
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", Investigation Discovery 
 http://38.18.238.35:2095/216I.D/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Pasiones 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pasiones_estados_unidos.jpg" group-title="Premium", Pasiones 
 http://23.237.29.98:2095/andromeda/PASIONES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", Sony channel 
@@ -868,34 +871,34 @@ http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF
 #EXTINF:-1 tvg-logo="" group-title="Premium",  TBS 
 http://23.237.29.98:2095/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", TNT Series 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tnt_serie.jpg" group-title="Premium", TNT Series 
 http://38.18.238.35:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tnt_us.jpg" group-title="Premium", TNT
+http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", Universal 
 http://38.18.238.35:2095/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Warner Tv 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/warner_channel_br.jpg" group-title="Premium", Warner Tv 
 http://38.18.238.35:2095/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Azcinema 
-http://38.18.238.35:2095/andromeda/AZCINEMA/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Premium", Cine canal 
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/cinecanalp.jpg" group-title="Premium", Cine canal 
 http://23.237.29.98:2095/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Cinemax 
+#EXTINF:-1 tvg-logo="http://lacalleochotv.org/wp-content/uploads/cinemaxp.jpg" group-title="Premium", Cinemax 
 http://38.18.238.35:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Cine latino 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="Premium", Cine latino 
 http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Film y Arts
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/film-arts.png" group-title="Premium", Film y Arts
 http://23.237.29.98:2095/416arts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", FMX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/130px-FX_Movies_logo.svg.png" group-title="Premium", FMX 
 http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Isat 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png" group-title="Premium", Isat 
 http://23.237.29.98:2095/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", 
