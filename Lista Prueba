@@ -759,7 +759,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8?uid=D9B1fO
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-100x70.png" group-title="México", Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=vsSgbXajukGjSstEzdnVHZYLRIEOzpwn&sid=Lpg281oQVb1WduLTXxopzL6Q35Lh43xO&pid=T4fmBt9zIo3QaS5sLd5HNrwrweJ6BdOD&an=screen&at=web-app&av=v5.2.112&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=803x402&without_cookies=false&dnt=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="México", Sep Cadena 4
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-28-Chihuahua-en-vivo-Online-100x70.png" group-title="México", Sep Cadena 4
 https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8?uid=xKzh1AwuR4aZfYHd2AdVDkObi6jGPrey&sid=qUrAO9I0P5DlqnmSsfhi3lnmLxubucmf&pid=MKPkO2FBTLaoTVqR1hDFut4rJ3q2moeo&an=screen&at=web-app&av=v5.2.112&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=803x402&without_cookies=false&dnt=true
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-100x70.png" group-title="México", Tv Cuatro 4.1
@@ -783,16 +783,16 @@ https://www.canal10.tv/live/tvlive1/chunklist_w1157504099.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Mexiquense-TV-en-vivo-Online-100x70.png" group-title="México", Mexiquense TV 34.1
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDIxIDQ6MDQ6MDIgQU0maGFzaF92YWx1ZT1XMHZUQjFzcUh2TWgvL0J5Q3dGRnR3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="México", AMX Noticias 34.2
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="México", AMX Noticias 34.2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w408470323.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="México", Turistik Tv
+#EXTINF:-1 tvg-logo="https://turistiktv.com.mx/inicio/wp-content/uploads/2020/05/LOGO-TURISTIK-300-copiaz-200x110-1.png" group-title="México", Turistik Tv
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1814557588.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Radio-y-Television-Queretaro-en-vivo-Online-100x70.png" group-title="México", RQT Canal 10
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w592319499.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="México", A+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/A-Amas-TV-en-vivo-Online-100x70.png" group-title="México", A+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/01/nu9ve.png" group-title="México", nu9ve
