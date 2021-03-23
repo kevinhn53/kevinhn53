@@ -820,10 +820,10 @@ http://38.18.238.35:2095/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Start Action
+#EXTINF:-1 tvg-logo="" group-title="Premium", Star Action
 http://38.18.238.35:2095/andromeda/FOXACTION/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Space
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/space_mx.jpg" group-title="Premium", Space
 http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium", Adrenalina 
