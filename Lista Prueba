@@ -729,7 +729,7 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohRLICK.jpg" group-title="México", Canal 5
 https://blackaddon.com/play/wistream-318.php?cat=latinos&ch=canal5televisa&k=black-ghost&f=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="México", Total
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/total-play.png" group-title="México", Total
 https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/azteca-7.png" group-title="México", Azteca 7
@@ -829,7 +829,7 @@ http://38.18.238.35:2095/andromeda/FOXACTION/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/space_mx.jpg" group-title="Premium", Space
 http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Premium", Adrenalina 
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/adrenalina-logo.png" group-title="Premium", Adrenalina 
 http://38.18.237.42:2095/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/wmvs_pbs10_milwaukee.jpg" group-title="Premium", Mvstv mx 
